@@ -4,5 +4,5 @@ const port=3144
 
 app.get("/", (req,res) =>{
     console.log(req)
-    res.send("hola")
+    res.send("viva")
 })
