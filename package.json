@@ -1,0 +1,29 @@
+{
+    "name": "nodeapidemo", 
+    "version": "1.0.0",
+    "description": "api demo testing",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo test",
+        "start": ""
+    },
+
+    "keywords": [],
+    "author": {
+        "name": "kennett Vargas Mejia",
+        "email": "kennett.vargasmejia@ucreativa.com"
+    },
+
+    "license": "ISC",
+    "dependencies": {
+        "express": "4.18.2"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "apidemo"
+    }
+
+
+
+}
